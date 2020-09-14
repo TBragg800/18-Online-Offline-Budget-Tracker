@@ -1,7 +1,7 @@
 # 18-Online-Offline-Budget-Tracker
 ![]()
 ##  Repository: 
-[Github Workout Tracker](https://github.com/TBragg800/18-Online-Offline-Budget-Tracker)
+[Github 18-Online-Offline-Budget-Tracker](https://github.com/TBragg800/18-Online-Offline-Budget-Tracker)
 
 ##  Deployed Site:
 [Heroku Deployed Online-Offline-Budget-Tracker]()

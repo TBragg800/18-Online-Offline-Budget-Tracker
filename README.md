@@ -31,7 +31,7 @@
   [Questions](#Questions)
   
 ## Description
- 
+ This Progressive Web Application is an Online/Offline Budget Tracker. The primary functionality offers the user to enter deposits online, enter expenses offline and when brought back online, all offline entries will be added. This application was created in node and utilizes a Service Worker, the compression npm, Express for route handling, a MongoDB Database and a Mongoose ODM for data mangement. For non-local usage see the heroku deployed site link above.
 
 ## Installation
 * Begin by cloning the repo locally.
@@ -43,7 +43,7 @@
 ## Usage - Local
 * After installation, use the CLI to navigate to the project directory and run 'node server.js' to start the server. 
 * The user should use the browser to visit http:localhost:3000
-* For non-local usage see heroku deployed site link above.
+* For non-local usage see the heroku deployed site link above.
 
 ## License
   MIT License

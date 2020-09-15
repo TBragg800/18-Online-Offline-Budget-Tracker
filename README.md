@@ -35,12 +35,13 @@
 
 ![]()
 ## Installation
-
-
-## Usage - Local
 * Begin by cloning the repo locally.
 * Using the CLI, the user should navigate to the project directory and run 'npm install'.
 * Use MongoDB for database handling.
+
+## Usage - Local
+* After installation, use the CLI to navigate to the project directory and run 'node server.js' to start the server. 
+* The user should use the browser to visit http:localhost:3000
 * For non-local usage see heroku deployed site link above.
 
 ## License

@@ -40,7 +40,7 @@
 
 # <p align="center">![](./public/budget-4.png)</p>
 
-## Usage - Local
+## Usage
 * After installation, use the CLI to navigate to the project directory and run 'node server.js' to start the server. 
 * The user should use the browser to visit http:localhost:3000
 * For non-local usage see the heroku deployed site link above.

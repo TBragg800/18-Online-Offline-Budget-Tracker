@@ -11,7 +11,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/TBragg800/18-Online-Offline-Budget-Tracker)
 
 ## Walkthrough Video Demonstration: 
-# <p align="center">![Walkthrough]()</p>
+# <p align="center">![Walkthrough](./public/budget.gif)</p>
 * YouTube link to the 
 [walkthrough](https://youtu.be/Hfd839rOLqQ)
 

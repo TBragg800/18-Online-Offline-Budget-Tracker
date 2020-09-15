@@ -1,5 +1,5 @@
 # 18-Online-Offline-Budget-Tracker
-![]()
+# <p align="center">![](./public/budget-1.png)</p>
 ##  Repository: 
 [Github 18-Online-Offline-Budget-Tracker](https://github.com/TBragg800/18-Online-Offline-Budget-Tracker)
 
@@ -33,11 +33,12 @@
 ## Description
  
 
-![]()
 ## Installation
 * Begin by cloning the repo locally.
 * Using the CLI, the user should navigate to the project directory and run 'npm install'.
 * Use MongoDB for database handling.
+
+# <p align="center">![](./public/budget-4.png)</p>
 
 ## Usage - Local
 * After installation, use the CLI to navigate to the project directory and run 'node server.js' to start the server. 
@@ -79,3 +80,5 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
+# <p align="center">![](./public/budget-3.png)</p>
+# <p align="center">![](./public/budget-2.png)</p>
